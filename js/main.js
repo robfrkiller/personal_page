@@ -11,6 +11,6 @@
 			'http://i.imgur.com/T1UboIt.jpg',
 			'http://i.imgur.com/zwbXLuI.jpg'
 		],
-		rand_index = Math.round(Math.random() * (bg_img.length - 1) + 1);
+		rand_index = Math.round(Math.random() * (bg_img.length - 1));
 	document.body.style.backgroundImage = 'url(' + bg_img[rand_index] + '.jpg)';
 }());
