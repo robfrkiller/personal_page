@@ -1,5 +1,10 @@
 (function () {
 	var bg_img = [
+			'http://i.imgur.com/CDcqaWu.jpg',
+			'http://i.imgur.com/3jVJBBk.jpg',
+			'http://i.imgur.com/RDiFza9.jpg',
+			'http://i.imgur.com/X0uWtXM.jpg',
+			'http://i.imgur.com/vvJibGe.png',
 			'http://i.imgur.com/dWBGrbk.jpg',
 			'http://i.imgur.com/PCOWpCv.jpg',
 			'http://i.imgur.com/ecuBGRX.jpg',
