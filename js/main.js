@@ -1,28 +1,28 @@
 (function () {
     var bg_img = [
-            'http://i.imgur.com/CDcqaWu.jpg',
-            'http://i.imgur.com/3jVJBBk.jpg',
-            'http://i.imgur.com/RDiFza9.jpg',
-            'http://i.imgur.com/X0uWtXM.jpg',
-            'http://i.imgur.com/vvJibGe.png',
-            'http://i.imgur.com/dWBGrbk.jpg',
-            'http://i.imgur.com/PCOWpCv.jpg',
-            'http://i.imgur.com/ecuBGRX.jpg',
-            'http://i.imgur.com/FjLbXki.jpg',
-            'http://i.imgur.com/DTwKxCb.jpg',
-            'http://i.imgur.com/JIm9Xql.jpg',
-            'http://i.imgur.com/rTWHcdr.jpg',
-            'http://i.imgur.com/0Qi6hfk.jpg',
-            'http://i.imgur.com/PeBHAyT.jpg',
-            'http://i.imgur.com/PEhve9K.jpg',
-            'http://i.imgur.com/r22gnK2.jpg',
-            'http://i.imgur.com/0CNw6bg.jpg',
-            'http://i.imgur.com/rloEVJW.jpg',
-            'http://i.imgur.com/T1UboIt.jpg',
-            'http://i.imgur.com/zwbXLuI.jpg'
+            'image/background/CDcqaWu.jpg',
+            'image/background/3jVJBBk.jpg',
+            'image/background/RDiFza9.jpg',
+            'image/background/X0uWtXM.jpg',
+            'image/background/vvJibGe.png',
+            'image/background/dWBGrbk.jpg',
+            'image/background/PCOWpCv.jpg',
+            'image/background/ecuBGRX.jpg',
+            'image/background/FjLbXki.jpg',
+            'image/background/DTwKxCb.jpg',
+            'image/background/JIm9Xql.jpg',
+            'image/background/rTWHcdr.jpg',
+            'image/background/0Qi6hfk.jpg',
+            'image/background/PeBHAyT.jpg',
+            'image/background/PEhve9K.jpg',
+            'image/background/r22gnK2.jpg',
+            'image/background/0CNw6bg.jpg',
+            'image/background/rloEVJW.jpg',
+            'image/background/T1UboIt.jpg',
+            'image/background/zwbXLuI.jpg'
         ],
         rand_index = Math.round(Math.random() * (bg_img.length - 1));
-    document.body.style.backgroundImage = 'url(' + bg_img[rand_index] + '.jpg)';
+    document.body.style.backgroundImage = 'url(' + bg_img[rand_index] + ')';
 }());
 
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
