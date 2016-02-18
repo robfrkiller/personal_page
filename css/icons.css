@@ -1,0 +1,184 @@
+.sprite {
+    background-image: url(../image/icons.png);
+    background-repeat: no-repeat;
+    display: block;
+    width: 90px;
+    height: 90px;
+}
+
+.sprite-104 {
+    background-position: -5px -5px;
+}
+
+.sprite-1111 {
+    background-position: -105px -5px;
+}
+
+.sprite-518 {
+    background-position: -205px -5px;
+}
+
+.sprite-591 {
+    background-position: -305px -5px;
+}
+
+.sprite-CWB {
+    background-position: -405px -5px;
+}
+
+.sprite-GitHub {
+    background-position: -505px -5px;
+}
+
+.sprite-Holiday {
+    background-position: -5px -105px;
+}
+
+.sprite-HostUS {
+    background-position: -105px -105px;
+}
+
+.sprite-PTT {
+    background-position: -205px -105px;
+}
+
+.sprite-VBird {
+    background-position: -305px -105px;
+}
+
+.sprite-VirusTotal {
+    background-position: -405px -105px;
+}
+
+.sprite-YouTube {
+    background-position: -505px -105px;
+}
+
+.sprite-angularjs {
+    background-position: -5px -205px;
+}
+
+.sprite-beanfun {
+    background-position: -105px -205px;
+}
+
+.sprite-bootstrap {
+    background-position: -205px -205px;
+}
+
+.sprite-box {
+    background-position: -305px -205px;
+}
+
+.sprite-django {
+    background-position: -405px -205px;
+}
+
+.sprite-dropbox {
+    background-position: -505px -205px;
+}
+
+.sprite-evernote {
+    background-position: -5px -305px;
+}
+
+.sprite-facebook {
+    background-position: -105px -305px;
+}
+
+.sprite-feedly {
+    background-position: -205px -305px;
+}
+
+.sprite-gamer {
+    background-position: -305px -305px;
+}
+
+.sprite-gmail {
+    background-position: -405px -305px;
+}
+
+.sprite-google-calendar {
+    background-position: -505px -305px;
+}
+
+.sprite-google-drive {
+    background-position: -5px -405px;
+}
+
+.sprite-google-map {
+    background-position: -105px -405px;
+}
+
+.sprite-google-map-lite {
+    background-position: -205px -405px;
+}
+
+.sprite-google-photo {
+    background-position: -305px -405px;
+}
+
+.sprite-google-plus {
+    background-position: -405px -405px;
+}
+
+.sprite-google-translate {
+    background-position: -505px -405px;
+}
+
+.sprite-imgur {
+    background-position: -5px -505px;
+}
+
+.sprite-jorsindo {
+    background-position: -105px -505px;
+}
+
+.sprite-jquery {
+    background-position: -205px -505px;
+}
+
+.sprite-laravel {
+    background-position: -305px -505px;
+}
+
+.sprite-luckydog {
+    background-position: -405px -505px;
+}
+
+.sprite-mobile01 {
+    background-position: -505px -505px;
+}
+
+.sprite-motocity {
+    background-position: -605px -5px;
+}
+
+.sprite-phalcon {
+    background-position: -605px -105px;
+}
+
+.sprite-ruten {
+    background-position: -605px -205px;
+}
+
+.sprite-socketIO {
+    background-position: -605px -305px;
+}
+
+.sprite-spotify {
+    background-position: -605px -405px;
+}
+
+.sprite-taobao {
+    background-position: -605px -505px;
+}
+
+.sprite-yahoo {
+    background-position: -5px -605px;
+}
+
+.sprite-yes123 {
+    background-position: -105px -605px;
+}
+
