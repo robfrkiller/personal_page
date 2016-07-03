@@ -7,178 +7,177 @@
 }
 
 .sprite-104 {
-    background-position: -5px -5px;
+    background-position: 0 0;
 }
 
 .sprite-1111 {
-    background-position: -105px -5px;
+    background-position: -90px 0;
 }
 
 .sprite-518 {
-    background-position: -205px -5px;
+    background-position: -180px 0;
 }
 
 .sprite-591 {
-    background-position: -305px -5px;
+    background-position: -270px 0;
 }
 
 .sprite-CWB {
-    background-position: -405px -5px;
+    background-position: -360px 0;
 }
 
 .sprite-GitHub {
-    background-position: -505px -5px;
+    background-position: -450px 0;
+}
+
+.sprite-GitLab {
+    background-position: 0 -90px;
 }
 
 .sprite-Holiday {
-    background-position: -5px -105px;
+    background-position: -90px -90px;
 }
 
 .sprite-HostUS {
-    background-position: -105px -105px;
+    background-position: -180px -90px;
 }
 
 .sprite-PTT {
-    background-position: -205px -105px;
+    background-position: -270px -90px;
 }
 
 .sprite-VBird {
-    background-position: -305px -105px;
+    background-position: -360px -90px;
 }
 
 .sprite-VirusTotal {
-    background-position: -405px -105px;
+    background-position: -450px -90px;
 }
 
 .sprite-YouTube {
-    background-position: -505px -105px;
+    background-position: 0 -180px;
 }
 
 .sprite-angularjs {
-    background-position: -5px -205px;
+    background-position: -90px -180px;
 }
 
 .sprite-beanfun {
-    background-position: -105px -205px;
+    background-position: -180px -180px;
 }
 
 .sprite-bootstrap {
-    background-position: -205px -205px;
-}
-
-.sprite-box {
-    background-position: -305px -205px;
+    background-position: -270px -180px;
 }
 
 .sprite-django {
-    background-position: -405px -205px;
+    background-position: -360px -180px;
 }
 
 .sprite-dropbox {
-    background-position: -505px -205px;
+    background-position: -450px -180px;
 }
 
 .sprite-evernote {
-    background-position: -5px -305px;
+    background-position: 0 -270px;
 }
 
 .sprite-facebook {
-    background-position: -105px -305px;
+    background-position: -90px -270px;
 }
 
 .sprite-feedly {
-    background-position: -205px -305px;
+    background-position: -180px -270px;
 }
 
 .sprite-gamer {
-    background-position: -305px -305px;
+    background-position: -270px -270px;
 }
 
 .sprite-gmail {
-    background-position: -405px -305px;
+    background-position: -360px -270px;
 }
 
 .sprite-google-calendar {
-    background-position: -505px -305px;
+    background-position: -450px -270px;
 }
 
 .sprite-google-drive {
-    background-position: -5px -405px;
+    background-position: 0 -360px;
 }
 
 .sprite-google-map {
-    background-position: -105px -405px;
+    background-position: -90px -360px;
 }
 
 .sprite-google-map-lite {
-    background-position: -205px -405px;
+    background-position: -180px -360px;
 }
 
 .sprite-google-photo {
-    background-position: -305px -405px;
+    background-position: -270px -360px;
 }
 
 .sprite-google-plus {
-    background-position: -405px -405px;
+    background-position: -360px -360px;
 }
 
 .sprite-google-translate {
-    background-position: -505px -405px;
+    background-position: -450px -360px;
 }
 
 .sprite-imgur {
-    background-position: -5px -505px;
+    background-position: 0 -450px;
 }
 
 .sprite-jorsindo {
-    background-position: -105px -505px;
+    background-position: -90px -450px;
 }
 
 .sprite-jquery {
-    background-position: -205px -505px;
+    background-position: -180px -450px;
 }
 
 .sprite-laravel {
-    background-position: -305px -505px;
+    background-position: -270px -450px;
 }
 
 .sprite-luckydog {
-    background-position: -405px -505px;
+    background-position: -360px -450px;
 }
 
 .sprite-mobile01 {
-    background-position: -505px -505px;
+    background-position: -450px -450px;
 }
 
 .sprite-motocity {
-    background-position: -605px -5px;
+    background-position: -540px 0;
 }
 
 .sprite-phalcon {
-    background-position: -605px -105px;
+    background-position: -540px -90px;
 }
 
 .sprite-ruten {
-    background-position: -605px -205px;
+    background-position: -540px -180px;
 }
 
 .sprite-socketIO {
-    background-position: -605px -305px;
+    background-position: -540px -270px;
 }
 
 .sprite-spotify {
-    background-position: -605px -405px;
+    background-position: -540px -360px;
 }
 
 .sprite-taobao {
-    background-position: -605px -505px;
+    background-position: -540px -450px;
 }
 
 .sprite-yahoo {
-    background-position: -5px -605px;
+    background-position: 0 -540px;
 }
 
 .sprite-yes123 {
-    background-position: -105px -605px;
+    background-position: -90px -540px;
 }
-
